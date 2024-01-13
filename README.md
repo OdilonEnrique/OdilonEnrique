@@ -16,15 +16,13 @@
 
 <br>
   
-## CONTACTS
-
-- ### ✉ E-mail: odilonegduarte@gmail.com
-- ### ☎️ Phone: (85) 98431-8429
+#### :coffee: Quer falar comigo?
 
 <div> 
   <a href="https://www.linkedin.com/in/odilon-enrique/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/_odilon_enrique"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://wa.me/5585984318429"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+   <a href = "mailto:odilonegduarte@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
