@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a>. Welcome to my repository</h1>
+<h1 align="center">👋 Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a>. Welcome to my repository</h1>
 
 <br>
 
