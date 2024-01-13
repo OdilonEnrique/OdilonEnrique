@@ -1,5 +1,14 @@
-<h1 align="center">👋 Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a>. Welcome to my repository</h1>
+<h1 align="center"> Welcome to my repository</h1>
 
+<br>
+
+#### :wave: Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a>.
+ - 💡 Sou entusiasta de Inovação Tecnológica
+ - 💻 Foco em tecnologias para desenvolvimento Fullstack
+ - 💻 Desenvolvedor de Sistemas
+ - 🧠 Abordagem Lógica para Resolução de Desafios
+ - 🌐 Atualizado com as Últimas Tendências Tecnológicas
+ - 📚 Curioso e Ávido por Aprendizado
 <br>
 
 ## TECHNOLOGIES AND SOFTWARES
@@ -16,7 +25,7 @@
 
 <br>
   
-#### :coffee: Quer falar comigo?
+## :coffee: Quer falar comigo?
 
 <div> 
   <a href="https://www.linkedin.com/in/odilon-enrique/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
