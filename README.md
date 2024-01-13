@@ -1,12 +1,16 @@
-<h1 align="center">✨ I'm a a Web Developer</h1>
-
-- 💻 Apaixonado por Tecnologia
-- 💻 Foco em tecnologias para desenvolvimento Fullstack
-- 💻 Desenvolvedor de Sistemas
-- 📱 Sempre conectado com as novas tecnologias
-- 🦝 Curioso e pronto para aprender
+<h1 align="center">✨ Hello! My name is<a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a> and Welcome to my repository</h1>
 
 <br>
+
+## TECHNOLOGIES AND SOFTWARES
+
+  <img align="center" alt="HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
+  <img align="center" alt="React" title="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
+</div>
 
 <div align="center">
   <a href="https://github.com/OdilonEnrique">
