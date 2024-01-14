@@ -2,7 +2,7 @@
 
 <br>
 
-## :wave: Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">OdilonEnrique</a>.
+## :wave: Hello! My name is <a href="https://www.linkedin.com/in/odilon-enrique/">Odilon Enrique</a>.
  - 💡 Sou entusiasta de Inovação Tecnológica
  - 💻 Foco em tecnologias para desenvolvimento Fullstack
  - 💻 Desenvolvedor de Sistemas
